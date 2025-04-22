@@ -4,7 +4,7 @@
     `-.-' \ )-`( , o o)
           `-    \`_`"'-   Hello, World!
 ```
-## Wall of Excellence
+### Wall of Excellence
 
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://github.com/user-attachments/assets/ef1b2452-ef64-4be6-b9a1-8eb44f0f0838" alt="typescript" height="50" /></a>&nbsp;&nbsp;
 <a href="https://www.npmjs.com/" target="_blank"><img src="https://github.com/user-attachments/assets/6e85b871-6bd7-4659-95ef-d107f64a38b4" alt="npmjs" height="40" /></a>&nbsp;&nbsp;
